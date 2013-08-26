@@ -1,0 +1,11 @@
+#include <cstdio>
+#include <cstring>
+int N,M;
+int t1,t2,na;
+int find(int n,int k,int l);
+int main()
+{
+
+	int i,j;
+	
+}

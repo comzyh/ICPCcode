@@ -1,0 +1,8 @@
+#include <cstdio>
+#include <cstring>
+int N,M;
+int find(int n,int k,int l);
+int main()
+{
+	
+}
